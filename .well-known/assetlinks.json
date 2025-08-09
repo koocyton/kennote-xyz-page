@@ -1,10 +1,11 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "xyz.onote.gg.ml.app",
-    "sha256_cert_fingerprints": [
-       "6C:21:9E:44:BE:DB:19:72:06:E9:DD:69:17:43:B5:01:25:9A:F6:90:75:47:6D:28:91:47:30:42:FF:43:A2:86"
-    ]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "xyz.onote.gg.ml.app",
+      "sha256_cert_fingerprints":
+        ["6C:21:9E:44:BE:DB:19:72:06:E9:DD:69:17:43:B5:01:25:9A:F6:90:75:47:6D:28:91:47:30:42:FF:43:A2:86"]
+    }
   }
-}]
+]
